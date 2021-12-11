@@ -3,7 +3,7 @@
 - Exclude special characters to convert a header in html into an html extension with javascript.
 
 
-####Javascript Code:
+#### Javascript Code:
 
 ```javascript
 // Bir başlığı link haline dönüştürürken
@@ -32,7 +32,7 @@ x = x.replaceAll(/[,!?*ışçöüğİŞÇÖÜĞ .]/g, change => differentLetters
 link.innerHTML = x + ".html";
 ```
 
-####HTML code:
+#### HTML code:
 
 ```html
 <!DOCTYPE html>
@@ -56,7 +56,7 @@ link.innerHTML = x + ".html";
     </body>
 </html>
 ```
-###What to do next
+### What to do next
 
 - Special characters will be imported by pulling from a json file
 - When this title is clicked with various Javascript codes, a new html page will be opened with the criteria we have determined, and a special code structure will be created there.
