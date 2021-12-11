@@ -4,6 +4,7 @@
 
 
 ####Javascript Code:
+
 ```javascript
 // Bir başlığı link haline dönüştürürken
 // Başlıkta kullandığımız özel karakterleri dönüştürmeye yarayan küçük bir kod yapısı 
